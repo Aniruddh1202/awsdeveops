@@ -16,4 +16,8 @@ phases:
 
 artifacts:
   files:
+<<<<<<< HEAD
     - '**/*'
+=======
+    - '**/*'
+>>>>>>> 7bc16c5cadd8b37a5e39eabd45b0701d627ea221
